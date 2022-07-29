@@ -1,7 +1,6 @@
-
 {
-    "name": "home test",
-    "description": "For home.",
+    "name": "Home test",
+    "description": "For me.",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
